@@ -6,4 +6,4 @@ Steps:
 1. I created the survey I was going to send out
 2. I had all the answers go into a single spread sheet and had to then clean my data and make it uniform because for shor answer problems people would type in different ways or formats
 3. Uploaded data to Tableau and RStudio to create charts and do basic analytics
-4. wrote my final report
+4. Wrote my final report
